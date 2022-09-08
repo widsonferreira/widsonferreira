@@ -1,4 +1,4 @@
-### Oláa!! Eu sou WidsonFerreira   😎
+### Oláa!! Eu sou Widson Ferreira   😎
 <div align="center">
   <a href="https://github.com/widsonferreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=widsonferreira&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
